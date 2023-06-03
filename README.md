@@ -1,5 +1,8 @@
-### Hi there 👋
-
+## Info
+- 👋 Hi, I’m @Anthony557324
+- 📧 Contact Me By: 1621860255@qq.com
+## Motto
+- ✌️ The harder it is, the more luckier
 <!--
 **Anthony557324/Anthony557324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
